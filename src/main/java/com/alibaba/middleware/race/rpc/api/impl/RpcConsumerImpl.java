@@ -63,7 +63,7 @@ public class RpcConsumerImpl extends RpcConsumer implements InvocationHandler {
 	public RpcConsumerImpl()
 	{
 		String ip=System.getProperty("SIP");
-		//String ip="127.0.0.1";
+//		String ip="0.0.0.0";
 		this.asyncMethods=new HashMap<String,ResponseCallbackListener>();
 		this.connection=new RpcNettyConnection(ip,8888);
 		this.connection.connect();
