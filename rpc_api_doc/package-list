@@ -1,0 +1,13 @@
+com.alibaba.middleware.race.rpc.aop
+com.alibaba.middleware.race.rpc.api
+com.alibaba.middleware.race.rpc.api.impl
+com.alibaba.middleware.race.rpc.async
+com.alibaba.middleware.race.rpc.context
+com.alibaba.middleware.race.rpc.demo.builder
+com.alibaba.middleware.race.rpc.demo.service
+com.alibaba.middleware.race.rpc.demo.test
+com.alibaba.middleware.race.rpc.demo.util
+com.alibaba.middleware.race.rpc.model
+com.alibaba.middleware.race.rpc.netty
+com.alibaba.middleware.race.rpc.serializer
+com.alibaba.middleware.race.rpc.tool

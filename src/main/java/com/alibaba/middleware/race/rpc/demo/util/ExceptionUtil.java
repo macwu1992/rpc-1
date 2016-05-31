@@ -8,11 +8,11 @@ import java.io.StringWriter;
  */
 public class ExceptionUtil {
     /**
-     * 取得异常的stacktrace字符串。
+     * stacktrace
      *
-     * @param throwable 异常
+     * @param throwable
      *
-     * @return stacktrace字符串
+     * @return stacktrace
      */
     public static String getStackTrace(Throwable throwable) {
         StringWriter buffer = new StringWriter();
